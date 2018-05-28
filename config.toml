@@ -1,0 +1,4 @@
+baseURL = "http://www.nondualism.ga/"
+languageCode = "en-us"
+title = "Nondualism"
+theme = "zen"
