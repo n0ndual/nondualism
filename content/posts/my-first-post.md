@@ -6,4 +6,4 @@ draft: false
 
 I got a feeling
 
-tonight is gonna be a good good night
+tonight is gonna be a good good night!
