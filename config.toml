@@ -1,4 +1,4 @@
-baseURL = "http://www.nondual.ga/"
+baseURL: http://www.nondual.ga
 title: Nondual
 theme: hugo-book
 
