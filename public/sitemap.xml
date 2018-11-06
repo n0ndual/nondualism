@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.nondualism.ga/posts/my-first-post/</loc>
+    <lastmod>2018-05-28T12:48:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nondualism.ga/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.nondualism.ga/</loc>
+    <lastmod>2018-05-28T12:48:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nondualism.ga/posts/</loc>
+    <lastmod>2018-05-28T12:48:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
